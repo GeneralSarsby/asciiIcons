@@ -21,4 +21,4 @@ The rules are:
   2. Uppercase are stroked and filled closed paths
   3. Runs starting with a number are stroked open paths
 
-Here is an [interactive space](xqt2.com/asciiIcons.html) you can tryout.
+Here is an [interactive space](http://xqt2.com/asciiIcons.html) you can tryout.
