@@ -1,5 +1,5 @@
 # asciiIcons
-Convert Ascii art images to SVG
+Convert Ascii art images to Scalable Icons
 
 #Ascii to Icon
 Based on a post 
